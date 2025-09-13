@@ -1,0 +1,12 @@
+flask
+flask_cors
+transformers
+torch
+accelerate
+bitsandbytes
+scipy
+pandas
+peft
+datasets
+huggingface_hub
+sentencepiece
